@@ -1,0 +1,41 @@
+.product,
+.product>.card {
+    height: 100%;
+}
+
+.product .card-title {
+    margin-bottom: .5rem;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.m-bt-1p5 {
+    margin-bottom: 1.5rem;
+}
+
+.product__img {
+    width: 50px;
+}
+
+.product__delete-button {
+    background-color: #ffffff;
+    border: none;
+    position: absolute;
+    right: 0;
+    padding: 4px;
+}
+
+.product .product__updatebox-label {
+    font-size: 14px;
+    padding-bottom: 5px;
+    color: #483698;
+    font-weight: 600;
+}
+
+.product .product__updatebox {
+    font-size: 14px;
+    border-radius: 0;
+    padding: 4px 10px;
+    border: 1px solid rgba(72, 54, 152, 0.64);
+}

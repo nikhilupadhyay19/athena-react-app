@@ -1,0 +1,8 @@
+.jumbotron {
+    background-color: #0091DA;
+    height: 100%;
+    text-align: center;
+    padding: 4rem 0;
+    color: #ffffff;
+    cursor: pointer;
+}

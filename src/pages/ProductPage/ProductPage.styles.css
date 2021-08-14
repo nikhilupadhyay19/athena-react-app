@@ -1,0 +1,17 @@
+.region__selectbox-label,
+.product__searchbox-label {
+    font-size: 14px;
+    padding-bottom: 5px;
+    color: #483698;
+    font-weight: 600;
+}
+
+.region__selecthbox,
+.product__searchbox {
+
+    font-size: 14px;
+    border-radius: 0;
+    padding: 4px 10px;
+    border: 1px solid rgba(72, 54, 152, 0.64);
+
+}
